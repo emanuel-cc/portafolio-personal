@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "portafolio-personal"
+    }
+  },
+  "defaultProject": "portafolio-personal",
+  "cli": {
+    "analytics": "84bea108-11dc-4d1d-84d6-2f1585567bed"
+  }
 }
